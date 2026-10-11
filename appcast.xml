@@ -5,5 +5,16 @@
     <link>https://github.com/4IngoJ/tonecue/releases/latest/download/appcast.xml</link>
     <description>Update feed for ToneCue.</description>
     <language>en</language>
+    <item>
+      <title>ToneCue 2.0.0</title>
+      <pubDate>Sun, 11 Oct 2026 13:30:00 +0200</pubDate>
+      <sparkle:version>2</sparkle:version>
+      <sparkle:shortVersionString>2.0.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
+      <sparkle:releaseNotesLink>https://github.com/4IngoJ/tonecue/releases/tag/v2.0.0</sparkle:releaseNotesLink>
+      <enclosure url="https://github.com/4IngoJ/tonecue/releases/download/v2.0.0/ToneCue-2.0.0.zip"
+                 sparkle:edSignature="Jf+wfwxcZ/NkN5uAnwailmTC5MEfZyZF6E6QWlzhbQq+CS73Aphfryk8rg/DHOt6S5NJEnJnfcwlVd/TS+8QDw=="
+                 length="3250786" type="application/octet-stream"/>
+    </item>
   </channel>
 </rss>
